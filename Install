@@ -32,7 +32,7 @@ if [[ -e /etc/debian_version ]]; then
 	if [[ "$VERSION_ID" != 'VERSION_ID="7"' ]] && [[ "$VERSION_ID" != 'VERSION_ID="8"' ]] && [[ "$VERSION_ID" != 'VERSION_ID="9"' ]] && [[ "$VERSION_ID" != 'VERSION_ID="14.04"' ]] && [[ "$VERSION_ID" != 'VERSION_ID="16.04"' ]] && [[ "$VERSION_ID" != 'VERSION_ID="17.04"' ]]; then
 		echo ""
 		echo "  (\_(\ "
-		echo " (=’ :’) :* Script by Mnm Ami"
+		echo " (=’ :’) :* Script by Team Vpnnetwork"
 		echo "  (,(”)(”) °.¸¸.•"
 		echo ""
 		echo "เวอร์ชั่น OS ของคุณเป็นเวอร์ชั่นที่ยังไม่รองรับ"
@@ -46,7 +46,7 @@ if [[ -e /etc/debian_version ]]; then
 else
 	echo ""
 	echo "  (\_(\ "
-	echo " (=’ :’) :* Script by Mnm Ami"
+	echo " (=’ :’) :* Script by Team Vpnnetwork"
 	echo "  (,(”)(”) °.¸¸.•"
 	echo ""
 	echo "OS ที่คุณใช้ไม่สามารถรองรับได้กับสคริปท์นี้"
@@ -66,7 +66,7 @@ NC='\033[0m'
 # Menu
 echo ""
 echo "  (\_(\ "
-echo " (=’ :’) :* Script by Mnm Ami"
+echo " (=’ :’) :* Script by Team Vpnnetwork"
 echo "  (,(”)(”) °.¸¸.•"
 echo ""
 if [[ -e /usr/local/bin/Check-Thai ]]; then
@@ -601,7 +601,7 @@ fi
 	clear
 	echo ""
 	echo "  (\_(\ "
-	echo " (=’ :’) :* Script by Mnm Ami"
+	echo " (=’ :’) :* Script by Team Vpnnetwork"
 	echo "  (,(”)(”) °.¸¸.•"
 	echo ""
 	echo "Donate via TrueMoney Wallet : 082-038-2600"
@@ -735,7 +735,7 @@ if [[ "$NoSquid" = 'N' ]]; then
 	clear
 	echo ""
 	echo "  (\_(\ "
-	echo " (=’ :’) :* Script by Mnm Ami"
+	echo " (=’ :’) :* Script by Team Vpnnetwork"
 	echo "  (,(”)(”) °.¸¸.•"
 	echo ""
 	echo "Donate via TrueMoney Wallet : 082-038-2600"
@@ -846,7 +846,7 @@ fi
 clear
 echo ""
 echo "  (\_(\ "
-echo " (=’ :’) :* Script by Mnm Ami"
+echo " (=’ :’) :* Script by Team Vpnnetwork"
 echo "  (,(”)(”) °.¸¸.•"
 echo ""
 echo "Donate via TrueMoney Wallet : 082-038-2600"
@@ -879,7 +879,7 @@ elif [[ ! -e /etc/default/dropbear ]]; then
 	clear
 	echo ""
 	echo "  (\_(\ "
-	echo " (=’ :’) :* Script by Mnm Ami"
+	echo " (=’ :’) :* Script by Team Vpnnetwork"
 	echo "  (,(”)(”) °.¸¸.•"
 	echo ""
 	echo "Donate via TrueMoney Wallet : 082-038-2600"
@@ -916,7 +916,7 @@ if [[ -e /etc/squid3/squid.conf ]]; then
 	clear
 	echo ""
 	echo "  (\_(\ "
-	echo " (=’ :’) :* Script by Mnm Ami"
+	echo " (=’ :’) :* Script by Team Vpnnetwork"
 	echo "  (,(”)(”) °.¸¸.•"
 	echo ""
 	echo "Donate via TrueMoney Wallet : 082-038-2600"
@@ -928,7 +928,7 @@ elif [[ -e /etc/squid/squid.conf ]]; then
 	clear
 	echo ""
 	echo "  (\_(\ "
-	echo " (=’ :’) :* Script by Mnm Ami"
+	echo " (=’ :’) :* Script by Team Vpnnetwork"
 	echo "  (,(”)(”) °.¸¸.•"
 	echo ""
 	echo "Donate via TrueMoney Wallet : 082-038-2600"
@@ -980,7 +980,7 @@ END
 	clear
 	echo ""
 	echo "  (\_(\ "
-	echo " (=’ :’) :* Script by Mnm Ami"
+	echo " (=’ :’) :* Script by Team Vpnnetwork"
 	echo "  (,(”)(”) °.¸¸.•"
 	echo ""
 	echo "Source by Mnm Ami"
@@ -1029,7 +1029,7 @@ END
 	clear
 	echo ""
 	echo "  (\_(\ "
-	echo " (=’ :’) :* Script by Mnm Ami"
+	echo " (=’ :’) :* Script by Team Vpnnetwork"
 	echo "  (,(”)(”) °.¸¸.•"
 	echo ""
 	echo "Source by Mnm Ami"
